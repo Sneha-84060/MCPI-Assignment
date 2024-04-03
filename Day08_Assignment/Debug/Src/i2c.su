@@ -1,0 +1,9 @@
+../Inc/system_stm32f4xx.h:131:20:DelayMs	24	static
+../Src/i2c.c:10:6:I2CStart	4	static
+../Src/i2c.c:15:6:I2CRepeatStart	8	static
+../Src/i2c.c:19:6:I2CStop	4	static
+../Src/i2c.c:24:6:I2CSendSlaveAddress	16	static
+../Src/i2c.c:33:6:I2CSendData	16	static
+../Src/i2c.c:43:9:I2CRecvData	16	static
+../Src/i2c.c:53:5:I2CIsDeviceReady	16	static
+../Src/i2c.c:64:6:I2CInit	8	static
