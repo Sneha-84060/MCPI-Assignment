@@ -1,0 +1,2 @@
+../Src/timerP.c:9:6:TimerInit	1
+../Src/timerP.c:18:6:TimerDelayMs	2
